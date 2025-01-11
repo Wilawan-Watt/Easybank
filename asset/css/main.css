@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Public Sans", serif;
+}
+
+:root {
+    /* Primary color */
+    --Dark_Blue: hsl(233, 26%, 24%);
+    --Lime_Green: hsl(136, 65%, 51%);
+    --Bright_Cyan: hsl(192, 70%, 51%);
+
+    /* Neutral color */
+    --Grayish_Blue: hsl(233, 8%, 62%);
+    --Light_Grayish_Blue: hsl(220, 16%, 96%);
+    --Very_Light_Gray: hsl(0, 0%, 98%);
+    --White: hsl(0, 0%, 100%);
+
+    /* Font weight */
+    --fw-300: 300;
+    --fw-400: 400;
+    --fw-700: 700;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}

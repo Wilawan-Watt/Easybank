@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1271 1034" style="enable-background:new 0 0 1271 1034;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#a);}
+	.st1{fill:none;}
+	.st2{clip-path:url(#SVGID_2_);fill:#2D314E;}
+	.st3{fill:url(#SVGID_3_);}
+</style>
+<filter  filterUnits="objectBoundingBox" height="135.9%" id="a" width="104.9%" x="-4.8%" y="-17.6%">
+	<feOffset  dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="38.5"></feGaussianBlur>
+	<feColorMatrix  in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0240111451 0"></feColorMatrix>
+</filter>
+<g transform="translate(15)">
+	<g class="st0">
+	</g>
+	<g>
+		<path class="st1" d="M0,0"/>
+	</g>
+	<path class="st1" d="M0,0"/>
+</g>
+<image style="overflow:visible;" width="1440" height="2262" xlink:href="../design/desktop-design.jpg"  transform="matrix(0.8826 0 0 0.8826 0 -69.7709)">
+</image>
+<g id="Layer_2">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="606.9" y="24.5" width="664.1" height="583.9"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st2" d="M1273.4,575.1V89.7h-1.6V40H692.1c-30.8,0-55.8,25-55.8,55.8v0c0,24.1,15.3,44.7,36.8,52.5l6.9,6.9
+			c12.9,12.9,12.9,33.9,0,46.8c-6.5,6.5-14.9,9.7-23.4,9.7c-0.2,0-0.4,0-0.6,0c-2.6-0.7-5.3-1.1-7.9-1.1c-0.2,0-0.4,0-0.6,0
+			c-4.7,0-9.4,1-13.8,3c-3.5,1.6-6.8,3.8-9.6,6.7c-12.9,12.9-12.9,33.9,0,46.8L821,463.8c6.5,6.5,14.9,9.7,23.4,9.7
+			s16.9-3.2,23.4-9.7c12.9-12.9,12.9-33.9,0-46.8l-3.9-3.9l20.7-15.8l200.6,182.7h194.1L1273.4,575.1z"/>
+	</g>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="745.7582" y1="194.4395" x2="1271" y2="194.4395">
+		<stop  offset="0" style="stop-color:#4EBA70"/>
+		<stop  offset="0.2344" style="stop-color:#4CBA75"/>
+		<stop  offset="0.5758" style="stop-color:#46BA83"/>
+		<stop  offset="0.9811" style="stop-color:#3ABA97"/>
+		<stop  offset="1" style="stop-color:#39BA98"/>
+	</linearGradient>
+	<polygon class="st3" points="745.8,0 894.7,155 1033.5,153.5 1123.1,246.6 1271,388.9 1271,150.8 1271,98.6 1271,0 	"/>
+</g>
+</svg>
