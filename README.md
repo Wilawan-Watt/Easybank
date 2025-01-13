@@ -1,3 +1,5 @@
+You can visit the website at *** https://wilawan-watt.github.io/Easybank/ ***
+
 The challenge is to build the Easybank landing page and make it look as close as possible to the design provided in the Frontend Mentor challenge.
 
 I am coding the landing page using HTML, CSS, JavaScript, and Bootstrap to complete the challenge. 
