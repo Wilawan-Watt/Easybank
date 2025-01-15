@@ -546,7 +546,7 @@ header {
                 .blog_text {
                     padding: 25px;
 
-                    h4 {
+                    h1 {
                         font-size: .75rem;
                         font-weight: var(--fw-300);
                     }
